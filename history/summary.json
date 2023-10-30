@@ -4,17 +4,19 @@
     "url": "https://olevik.me",
     "icon": "https://icons.duckduckgo.com/ip3/olevik.me.ico",
     "slug": "ole-vik-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 108,
-    "timeWeek": 166,
+    "timeDay": 128,
+    "timeWeek": 164,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
