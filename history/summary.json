@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/olevik.me.ico",
     "slug": "ole-vik-me",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
-    "timeDay": 282,
-    "timeWeek": 270,
-    "timeMonth": 217,
-    "timeYear": 185,
+    "timeDay": 145,
+    "timeWeek": 254,
+    "timeMonth": 215,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2023-10-30": 28
     }
